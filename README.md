@@ -13,6 +13,7 @@ Visualization: Used Matplotlib and Seaborn for effective data storytelling.
 Tools & Technologies
 
 Python
+
 Libraries: Pandas, NumPy, Matplotlib, Seaborn
 
 
